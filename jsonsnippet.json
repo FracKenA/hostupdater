@@ -1,0 +1,7 @@
+{
+    "host_name": "<HOSTNAME>",
+    "address": "<HOSTADDRESS>",
+    "_OP5SECRET__AES_KEY": "<aeskey>",
+    "_OP5SECRET__SHA_KEY": "<shakey>",
+    "_OP5SECRET__USERNAME": "<username>"
+}
